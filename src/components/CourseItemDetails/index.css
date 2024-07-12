@@ -1,0 +1,37 @@
+.course-details-card {
+  display: flex;
+  width: 50vw;
+  margin-top: 100px;
+  box-shadow: 2px 2px 2px 2px #e8e8e8;
+}
+.course-details-logo {
+  height: 400px;
+}
+.course-details-card-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.name-description-container {
+  padding-left: 20px;
+}
+.course-heading {
+  font-size: bold;
+}
+.course-description {
+  color: #475569;
+}
+.retry-button {
+  background-color: #4656a1;
+  color: white;
+  height: 30px;
+  width: 70px;
+  border: none;
+  border-radius: 3px;
+}
+.failure-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

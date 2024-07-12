@@ -1,0 +1,11 @@
+.list-item {
+  list-style: none;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  text-decoration: none;
+}
+
+.course-name {
+  font-family: 'Roboto';
+}

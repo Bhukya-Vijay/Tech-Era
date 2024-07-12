@@ -1,0 +1,20 @@
+.course-items-container {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 100px;
+}
+.courses-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto';
+}
+.course-heading-card {
+  width: 80vw;
+}
+.retry-button {
+  background-color: #4656a1;
+  height: 40px;
+  width: 70px;
+}

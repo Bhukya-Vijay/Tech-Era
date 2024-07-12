@@ -1,0 +1,11 @@
+.nav-container {
+  background-color: #f1f5f9;
+  height: 60px;
+  display: flex;
+  align-items: center;
+}
+
+.website-logo {
+  height: 30px;
+  padding-left: 50px;
+}
